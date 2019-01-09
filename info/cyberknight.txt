@@ -1,0 +1,88 @@
+{'answer_count': 389,
+ 'articles_count': 31,
+ 'avatar_url': 'https://pic4.zhimg.com/v2-f007f7905df147facd8746cb1c78c227_is.jpg',
+ 'badge': [{'description': '优秀回答者',
+            'topics': [{'avatar_url': 'https://pic4.zhimg.com/7d8c15df29ce6900c80f9cf630992687_is.jpg',
+                        'excerpt': '电影，是由活动照相术和幻灯放映术结合发展起来的一种连续的影像画面，是一门视觉和听觉的现代艺术，也是一门可以容纳戏剧、摄影、绘画、音乐、舞蹈、文字、雕塑、建筑等多种艺术的现代科技与艺术的综合体。但它又具有独自的特征，电影在艺术表现力上不但具有其它各种艺术的特征，又因可以运用蒙太奇（法语：Montage）这种艺术性突跃的电影组接技巧，具有超越其它一切艺术的表现手段，而且影片可以大量复制放映，随着现代社会的…',
+                        'id': '19550429',
+                        'introduction': '电影，是由活动照相术和幻灯放映术结合发展起来的一种连续的影像画面，是一门视觉和听觉的现代艺术，也是一门可以容纳戏剧、摄影、绘画、音乐、舞蹈、文字、雕塑、建筑等多种艺术的现代科技与艺术的综合体。但它又具有独自的特征，电影在艺术表现力上不但具有其它各种艺术的特征，又因可以运用蒙太奇（法语：Montage）这种艺术性突跃的电影组接技巧，具有超越其它一切艺术的表现手段，而且影片可以大量复制放映，随着现代社会的发展，电影已深入到人类社会生活的方方面面，是人们日常生活不可或缺的一部分。国务院法制办于2018年2月2日—22日就《电影行政处罚裁量办法（征求意见稿）》向社会公开征求意见。',
+                        'name': '电影',
+                        'type': 'topic',
+                        'url': 'https://www.zhihu.com/topics/19550429'},
+                       {'avatar_url': 'https://pic1.zhimg.com/ca9323b34_is.jpg',
+                        'excerpt': '科幻片是类型片的一种，该类作品采用科幻元素作为题材，以建立在科学上的幻想性情景为背景，在此基础上展开叙事的影视作品。科幻片所采用的科学理论并不一定被主流科学界接受，例如外星生命、外星球、超能力或时间旅行等等。科幻电影常常使用可能的未来世界作为故事背景，用宇宙飞船、机器人或其他超越时代的科技等元素彰显与现实之间的差异。许多科幻电影会表现出对于政治或社会议题的关注，以及哲学方面如人类处境的探讨。一些…',
+                        'id': '19559915',
+                        'introduction': '科幻片是类型片的一种，该类作品采用科幻元素作为题材，以建立在科学上的幻想性情景为背景，在此基础上展开叙事的影视作品。科幻片所采用的科学理论并不一定被主流科学界接受，例如外星生命、外星球、超能力或时间旅行等等。科幻电影常常使用可能的未来世界作为故事背景，用宇宙飞船、机器人或其他超越时代的科技等元素彰显与现实之间的差异。许多科幻电影会表现出对于政治或社会议题的关注，以及哲学方面如人类处境的探讨。一些科幻电影是从科幻文学作品改编而成，但科幻电影会注重撷取其中的文学或人文方面的元素，而无视科幻文学比较注重的科学严谨性和逻辑性。',
+                        'name': '科幻电影',
+                        'type': 'topic',
+                        'url': 'https://www.zhihu.com/topics/19559915'},
+                       {'avatar_url': 'https://pic2.zhimg.com/v2-6c458fd3db0b1fc09b9e0bd51b987d75_is.jpg',
+                        'excerpt': '科幻，是幻想文学中最贴近现实的类型，其在已被证实的科学现象的基础上，进行天马行空的创造。',
+                        'id': '19552214',
+                        'introduction': '科幻，是幻想文学中最贴近现实的类型，其在已被证实的科学现象的基础上，进行天马行空的创造。',
+                        'name': '科幻',
+                        'type': 'topic',
+                        'url': 'https://www.zhihu.com/topics/19552214'},
+                       {'avatar_url': 'https://pic4.zhimg.com/d965da5c7_is.jpg',
+                        'excerpt': '从艺术性、观赏性、技术性、社会性及政治等方面对一部电影进行评价和批评。 '
+                                   '电影评论出现于 20 '
+                                   '世纪初，是从戏剧评论发展而来。电影评论最初只在专业报刊可以读到，随着时间的推移，逐渐可以在日报和周报还有电台和电视上，最后在很多网络媒体上也可以看到电影评论的身影。 '
+                                   '通过电影评论可以很大程度地对一部电影的票房产生影响。',
+                        'id': '19575422',
+                        'introduction': '从艺术性、观赏性、技术性、社会性及政治等方面对一部电影进行评价和批评。<br>电影评论出现于 '
+                                        '20 '
+                                        '世纪初，是从戏剧评论发展而来。电影评论最初只在专业报刊可以读到，随着时间的推移，逐渐可以在日报和周报还有电台和电视上，最后在很多网络媒体上也可以看到电影评论的身影。<br>通过电影评论可以很大程度地对一部电影的票房产生影响。',
+                        'name': '影视评论',
+                        'type': 'topic',
+                        'url': 'https://www.zhihu.com/topics/19575422'}],
+            'type': 'best_answerer'}],
+ 'commercial_question_count': 0,
+ 'cover_url': 'https://pic4.zhimg.com/v2-26bf31472721a3b5dfbcf2ed28d4997e_r.jpg',
+ 'description': '对人生和知识充满好奇。在无穷及永恒之中寻找一点自由梦想。<br>微博：<a '
+                'href="https://link.zhihu.com/?target=http%3A//weibo.com/cyberknight" '
+                'class=" external" target="_blank" rel="nofollow '
+                'noreferrer"><span class="invisible">http://</span><span '
+                'class="visible">weibo.com/cyberknight</span><span '
+                'class="invisible"></span></a><br>豆瓣：<a '
+                'href="https://link.zhihu.com/?target=http%3A//www.douban.com/people/CyberKnight/" '
+                'class=" external" target="_blank" rel="nofollow '
+                'noreferrer"><span class="invisible">http://www.</span><span '
+                'class="visible">douban.com/people/Cyber</span><span '
+                'class="invisible">Knight/</span><span '
+                'class="ellipsis"></span></a><br>微信公众号：CKMOVIE<br>《银河系科幻电影指南》<a '
+                'href="https://www.zhihu.com/pub/book/119560989" '
+                'class="internal"><span '
+                'class="invisible">https://www.</span><span '
+                'class="visible">zhihu.com/pub/book/1195</span><span '
+                'class="invisible">60989</span><span '
+                'class="ellipsis"></span></a>',
+ 'educations': '',
+ 'employments': '',
+ 'favorite_count': 0,
+ 'favorited_count': 160368,
+ 'follower_count': 195464,
+ 'following_columns_count': 10,
+ 'following_count': 159,
+ 'following_favlists_count': 0,
+ 'following_question_count': 744,
+ 'following_topic_count': 36,
+ 'gender': 1,
+ 'headline': '黄钟弃毁，瓦釜雷鸣',
+ 'hosted_live_count': 1,
+ 'id': 'f7c8c7e28632d942d366b7b4ea134a5e',
+ 'locations': '银河系 ',
+ 'marked_answers_count': 77,
+ 'mutual_followees_count': 0,
+ 'name': '电子骑士',
+ 'participated_live_count': 1,
+ 'pins_count': 298,
+ 'question_count': 11,
+ 'thank_from_count': 0,
+ 'thank_to_count': 0,
+ 'thanked_count': 39846,
+ 'type': 'people',
+ 'url': 'https://www.zhihu.com/people/f7c8c7e28632d942d366b7b4ea134a5e',
+ 'url_token': 'cyberknight',
+ 'vote_from_count': 0,
+ 'vote_to_count': 0,
+ 'voteup_count': 163995}

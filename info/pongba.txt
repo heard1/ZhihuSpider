@@ -1,0 +1,47 @@
+{'answer_count': 5,
+ 'articles_count': 14,
+ 'avatar_url': 'https://pic2.zhimg.com/99abaf1b5_is.jpg',
+ 'badge': [],
+ 'commercial_question_count': 0,
+ 'cover_url': 'https://pic3.zhimg.com/v2-6c116e00f7032b7fbb0ba6ebd1ee0e4b_r.jpg',
+ 'description': '《暗时间》作者。<a '
+                'href="https://link.zhihu.com/?target=http%3A//mindhacks.cn" '
+                'class=" external" target="_blank" rel="nofollow '
+                'noreferrer"><span class="invisible">http://</span><span '
+                'class="visible">mindhacks.cn</span><span '
+                'class="invisible"></span></a>博主。译过几本技术书籍，发起过一个叫TopLanguage的技术讨论组。现在微软写程序。业余爱好心理学。',
+ 'educations': '计算机科学 南京大学 ',
+ 'employments': '微软 软件开发 ',
+ 'favorite_count': 0,
+ 'favorited_count': 3263,
+ 'follower_count': 15675,
+ 'following_columns_count': 59,
+ 'following_count': 441,
+ 'following_favlists_count': 0,
+ 'following_question_count': 137,
+ 'following_topic_count': 53,
+ 'gender': 1,
+ 'headline': '《暗时间》作者，<a '
+             'href="https://link.zhihu.com/?target=http%3A//mindhacks.cn" '
+             'class=" external" target="_blank" rel="nofollow '
+             'noreferrer"><span class="invisible">http://</span><span '
+             'class="visible">mindhacks.cn</span><span '
+             'class="invisible"></span></a>',
+ 'hosted_live_count': 0,
+ 'id': '8b8f80bcafc684ae1bca1ab85e89a8c3',
+ 'locations': '美国 ',
+ 'marked_answers_count': 0,
+ 'mutual_followees_count': 0,
+ 'name': '刘未鹏',
+ 'participated_live_count': 25,
+ 'pins_count': 3,
+ 'question_count': 0,
+ 'thank_from_count': 0,
+ 'thank_to_count': 0,
+ 'thanked_count': 401,
+ 'type': 'people',
+ 'url': 'https://www.zhihu.com/people/8b8f80bcafc684ae1bca1ab85e89a8c3',
+ 'url_token': 'pongba',
+ 'vote_from_count': 0,
+ 'vote_to_count': 0,
+ 'voteup_count': 1900}

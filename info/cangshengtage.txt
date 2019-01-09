@@ -1,0 +1,48 @@
+{'answer_count': 76,
+ 'articles_count': 29,
+ 'avatar_url': 'https://pic4.zhimg.com/v2-d2f2791f3e98a1e068d2a7f24f391737_is.jpg',
+ 'badge': [{'description': '计算机科学与技术博士在读', 'type': 'identity'}],
+ 'commercial_question_count': 0,
+ 'cover_url': 'https://pic3.zhimg.com/v2-3438f84a56601ecd68e52a4a4b0d346c_r.jpg',
+ 'description': '微信公众号：AI部落联盟。 '
+                '微信：liuzeming7275，写好备注。<br><br>NBA将近二十年的球迷，各类体育赛事都会关注，喜欢军事、历史和汽车。私信太多可能会看不到，要资料的微信找我。<br><br>我已加入“维权骑士”(<a '
+                'href="https://link.zhihu.com/?target=http%3A//rightknights.com" '
+                'class=" external" target="_blank" rel="nofollow '
+                'noreferrer"><span class="invisible">http://</span><span '
+                'class="visible">rightknights.com</span><span '
+                'class="invisible"></span></a>)的版权保护计划。我已委托“维权骑士”（<a '
+                'href="https://link.zhihu.com/?target=http%3A//rightknights.com" '
+                'class=" external" target="_blank" rel="nofollow '
+                'noreferrer"><span class="invisible">http://</span><span '
+                'class="visible">rightknights.com</span><span '
+                'class="invisible"></span></a>）为我的文章进行维权行动。',
+ 'educations': '自然语言处理 北京大学 自然语言处理 哈尔滨工业大学 ',
+ 'employments': '微软亚洲研究院 机器学习 百度 自然语言处理 ',
+ 'favorite_count': 3,
+ 'favorited_count': 7581,
+ 'follower_count': 2386,
+ 'following_columns_count': 227,
+ 'following_count': 50,
+ 'following_favlists_count': 4,
+ 'following_question_count': 1273,
+ 'following_topic_count': 56,
+ 'gender': 1,
+ 'headline': '微信公众号：AI部落联盟。',
+ 'hosted_live_count': 0,
+ 'id': '7376a48ee7d03230f8509a4e050086af',
+ 'locations': '北京 哈尔滨 ',
+ 'marked_answers_count': 0,
+ 'mutual_followees_count': 0,
+ 'name': 'cstghitpku',
+ 'participated_live_count': 0,
+ 'pins_count': 2,
+ 'question_count': 0,
+ 'thank_from_count': 0,
+ 'thank_to_count': 0,
+ 'thanked_count': 174,
+ 'type': 'people',
+ 'url': 'https://www.zhihu.com/people/7376a48ee7d03230f8509a4e050086af',
+ 'url_token': 'cangshengtage',
+ 'vote_from_count': 0,
+ 'vote_to_count': 0,
+ 'voteup_count': 2777}
